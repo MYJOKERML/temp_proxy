@@ -7,5 +7,6 @@
 使用以下命令安装：
 
 ```sh
+git clone https://github.com/MYJOKERML/temp_proxy.git && cd temp_proxy
 pip install .
 ```
